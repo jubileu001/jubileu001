@@ -1,4 +1,4 @@
-### Olá 👋, Eu sou o Adailton mestrando em Engenharia Mecânica
+### Olá 👋, Eu sou o Adailton Mestre em Engenharia Mecânica
 
 - 🔭 Atualmente estudando e desenvolvendo minhas habilidades em <b>Python para analise de dados, Machine Learning, SQL e Estatística</b>.
 - 👨‍🎓 Da graduação ao mestrado envolvido em pesquisa na área de controle de vibração. Na qual, adquiri conhecimento e desenvolvi habilidades em coleta e processamento de sinais (dados) utilizando <b>Matlab</b>.
